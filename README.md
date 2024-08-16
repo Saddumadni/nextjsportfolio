@@ -1,1 +1,3 @@
-# nextjsportfolio
+
+  # nextjsportfolio
+  npm install
